@@ -1,4 +1,4 @@
-someNumber = 10
+someNumber = 10 # modificare pentru a putea adauga fisierul in staging
 
 if(someNumber <= 0):
     print("Over zerro")
